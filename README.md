@@ -73,10 +73,17 @@ streak = 0
 
 ---
 
-## 📦 How to Run
+![WhatsApp Image 2025-11-11 at 9 06 36 PM](https://github.com/user-attachments/assets/04da00b0-07f8-4315-b2ee-3b51c91fc7f8)
+![WhatsApp Image 2025-11-11 at 9 06 36 PM-3](https://github.com/user-attachments/assets/293f3d11-55b7-455e-8e13-5ddcf8a0ae0c)
+![WhatsApp Image 2025-11-11 at 9 06 36 PM-2](https://github.com/user-attachments/assets/d6f3171e-a084-4e3f-8a94-894a561a932d)
+![WhatsApp Image 2025-11-11 at 9 06 35 PM](https://github.com/user-attachments/assets/28d28e56-eee0-414f-990f-4a751980ed4e)
+![WhatsApp Image 2025-11-11 at 9 06 35 PM-3](https://github.com/user-attachments/assets/f36863d5-e9c9-4e3c-b952-869c7e8bfb72)
+![WhatsApp Image 2025-11-11 at 9 06 35 PM-2](https://github.com/user-attachments/assets/424cd316-40e3-48be-8050-4ec92cd530c8)
 
+## 📦 How to Run
 ### Requirements
-- Android Studio (latest)
+- Android Studio (latest)!
+
 - Kotlin
 - Min SDK 21+
 
