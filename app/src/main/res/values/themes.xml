@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyQuizApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/quiz_primary</item>
+        <item name="colorOnPrimary">@color/quiz_on_primary</item>
+        <item name="colorPrimaryContainer">@color/quiz_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/quiz_on_primary_container</item>
+        <item name="colorSecondary">@color/quiz_secondary</item>
+        <item name="colorOnSecondary">@color/quiz_on_secondary</item>
+        <item name="colorSecondaryContainer">@color/quiz_secondary_container</item>
+        <item name="colorOnSecondaryContainer">@color/quiz_on_secondary_container</item>
+        <item name="colorTertiary">@color/quiz_tertiary</item>
+        <item name="colorOnTertiary">@color/quiz_on_tertiary</item>
+        <item name="colorTertiaryContainer">@color/quiz_tertiary_container</item>
+        <item name="colorOnTertiaryContainer">@color/quiz_on_tertiary_container</item>
+        <item name="colorError">@color/quiz_error</item>
+        <item name="colorOnError">@color/quiz_on_error</item>
+        <item name="colorErrorContainer">@color/quiz_error_container</item>
+        <item name="colorOnErrorContainer">@color/quiz_on_error_container</item>
+        <item name="android:colorBackground">@color/quiz_background</item>
+        <item name="colorOnBackground">@color/quiz_on_background</item>
+        <item name="colorSurface">@color/quiz_surface</item>
+        <item name="colorOnSurface">@color/quiz_on_surface</item>
+        <item name="colorSurfaceVariant">@color/quiz_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/quiz_on_surface_variant</item>
+        <item name="colorOutline">@color/quiz_outline</item>
+        <item name="colorOutlineVariant">@color/quiz_outline_variant</item>
+    </style>
+
+</resources>

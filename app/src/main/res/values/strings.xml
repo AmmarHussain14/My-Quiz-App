@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    
+    <!-- Quiz Strings -->
+    <string name="question_counter">Question %1$d of %2$d</string>
+    <string name="streak_count">%1$d streak!</string>
+    <string name="score_display">%1$d / %2$d</string>
+    <string name="percentage_display">%1$d%% Correct</string>
+    
+    <!-- Performance Messages -->
+    <string name="performance_outstanding">Outstanding! You\'re a quiz master!</string>
+    <string name="performance_great">Great job! You really know your stuff!</string>
+    <string name="performance_good">Good effort! Keep practicing!</string>
+    <string name="performance_nice">Nice try! Learning is a journey!</string>
+</resources>
