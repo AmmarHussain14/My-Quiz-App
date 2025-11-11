@@ -85,10 +85,9 @@ streak = 0
    ```bash
    git clone https://github.com/<your-username>/My-Quiz-App.git
 
-
-![WhatsApp Image 2025-11-11 at 9 06 36 PM](https://github.com/user-attachments/assets/04da00b0-07f8-4315-b2ee-3b51c91fc7f8)
-![WhatsApp Image 2025-11-11 at 9 06 36 PM-3](https://github.com/user-attachments/assets/293f3d11-55b7-455e-8e13-5ddcf8a0ae0c)
-![WhatsApp Image 2025-11-11 at 9 06 36 PM-2](https://github.com/user-attachments/assets/d6f3171e-a084-4e3f-8a94-894a561a932d)
-![WhatsApp Image 2025-11-11 at 9 06 35 PM](https://github.com/user-attachments/assets/28d28e56-eee0-414f-990f-4a751980ed4e)
-![WhatsApp Image 2025-11-11 at 9 06 35 PM-3](https://github.com/user-attachments/assets/f36863d5-e9c9-4e3c-b952-869c7e8bfb72)
-![WhatsApp Image 2025-11-11 at 9 06 35 PM-2](https://github.com/user-attachments/assets/424cd316-40e3-48be-8050-4ec92cd530c8)
+![WhatsApp Image 2025-11-11 at 9 06 36 PM-2](https://github.com/user-attachments/assets/8e1ed6c9-7659-4faa-b47d-33ee097c9cac)
+![WhatsApp Image 2025-11-11 at 9 06 36 PM-3](https://github.com/user-attachments/assets/2dd358d1-8a96-4745-b078-75954f7ab495)
+![WhatsApp Image 2025-11-11 at 9 06 35 PM-3](https://github.com/user-attachments/assets/247064b5-7da8-4365-b344-8b5dc66cca9c)
+![WhatsApp Image 2025-11-11 at 9 06 36 PM](https://github.com/user-attachments/assets/bacc9019-2fb6-4f55-ac87-d8929106ca4c)
+![WhatsApp Image 2025-11-11 at 9 06 35 PM-2](https://github.com/user-attachments/assets/1aac2a85-7743-4e04-8105-26da886b12a4)
+![WhatsApp Image 2025-11-11 at 9 06 35 PM](https://github.com/user-attachments/assets/056afa72-112c-4fc3-922a-def47f77f5c0)
