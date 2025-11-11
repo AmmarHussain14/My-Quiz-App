@@ -84,10 +84,10 @@ streak = 0
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/My-Quiz-App.git
-
-![WhatsApp Image 2025-11-11 at 9 06 36 PM-2](https://github.com/user-attachments/assets/8e1ed6c9-7659-4faa-b47d-33ee097c9cac)
-![WhatsApp Image 2025-11-11 at 9 06 36 PM-3](https://github.com/user-attachments/assets/2dd358d1-8a96-4745-b078-75954f7ab495)
-![WhatsApp Image 2025-11-11 at 9 06 35 PM-3](https://github.com/user-attachments/assets/247064b5-7da8-4365-b344-8b5dc66cca9c)
-![WhatsApp Image 2025-11-11 at 9 06 36 PM](https://github.com/user-attachments/assets/bacc9019-2fb6-4f55-ac87-d8929106ca4c)
-![WhatsApp Image 2025-11-11 at 9 06 35 PM-2](https://github.com/user-attachments/assets/1aac2a85-7743-4e04-8105-26da886b12a4)
 ![WhatsApp Image 2025-11-11 at 9 06 35 PM](https://github.com/user-attachments/assets/056afa72-112c-4fc3-922a-def47f77f5c0)
+![WhatsApp Image 2025-11-11 at 9 06 35 PM-2](https://github.com/user-attachments/assets/1aac2a85-7743-4e04-8105-26da886b12a4)
+![WhatsApp Image 2025-11-11 at 9 06 36 PM](https://github.com/user-attachments/assets/bacc9019-2fb6-4f55-ac87-d8929106ca4c)
+![WhatsApp Image 2025-11-11 at 9 06 35 PM-3](https://github.com/user-attachments/assets/247064b5-7da8-4365-b344-8b5dc66cca9c)
+![WhatsApp Image 2025-11-11 at 9 06 36 PM-3](https://github.com/user-attachments/assets/2dd358d1-8a96-4745-b078-75954f7ab495)
+![WhatsApp Image 2025-11-11 at 9 06 36 PM-2](https://github.com/user-attachments/assets/8e1ed6c9-7659-4faa-b47d-33ee097c9cac)
+
