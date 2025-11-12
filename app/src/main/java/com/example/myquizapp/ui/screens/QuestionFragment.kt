@@ -177,8 +177,10 @@ class QuestionFragment : Fragment() {
                     velocityX: Float,
                     velocityY: Float
                 ): Boolean {
-                    val diffX = e2.x - e1!!.x
-                    val diffY = e2.y - e1!!.y
+                    if (e1 == null) return false
+
+                    val diffX = e2.x - e1.x
+                    val diffY = e2.y - e1.y
 
                     // Prefer horizontal swipes, ignore mostly-vertical gestures
                     if (abs(diffX) > abs(diffY)
@@ -200,7 +202,6 @@ class QuestionFragment : Fragment() {
         }
 
         // Also forward touch events from the RecyclerView so swiping over options works.
-        // This won't block vertical scrolling because we check direction/threshold above.
         optionsRecyclerView.setOnTouchListener { _, event ->
             detector.onTouchEvent(event)
         }
